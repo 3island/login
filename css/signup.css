@@ -15,7 +15,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 100px 150px;
+  margin: 100px 600px;
   padding: 50px 0 100px 0;
   box-shadow: 0 10px 10px 0 rgb(94, 90, 90);
 }
